@@ -1,0 +1,4 @@
+jupyter
+spacy
+transformers
+torch
